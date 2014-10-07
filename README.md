@@ -6,3 +6,4 @@ This project was followed [Treehous](http://referrals.trhou.se/ninalee) course: 
 
 * [Part 01](http://fight-ikea.logdown.com/posts/236303-todo-web-app-01)
 * [Part 02](http://fight-ikea.logdown.com/posts/236303-todo-web-app-02)
+* [part 03]
