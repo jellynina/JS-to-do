@@ -118,3 +118,25 @@ ul li.editMode input[type=text] {
 ul li.editMode label {
   display:none;
 }
+
+/* footer for information*/
+footer{
+  width: 800px;
+  margin: 50px auto 0;
+  display: flex;
+  justify-content: flex-end;
+  color: #cccccc;
+}
+
+footer p{
+  margin: 0 15px;
+}
+
+a{
+  text-decoration: none;
+  color: #bbb;
+}
+
+a:hover{
+  color: #33cc33;
+}
