@@ -124,7 +124,9 @@ footer{
   width: 800px;
   margin: 50px auto 0;
   display: flex;
+  display: -webkit-flex;
   justify-content: flex-end;
+  -webkit-justify-content: flex-end;
   color: #cccccc;
 }
 

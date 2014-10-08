@@ -129,7 +129,7 @@ var bindTaskEvents = function(taskListItem, checkBoxEventHandler){
 	//select taskListItem's children
 	console.log("bind list item events")
 	//每個li裡面有四個元素
-	var checkBox = taskListItem.querySelector("input[type=checkbox"); //直接使用css selector
+	var checkBox = taskListItem.querySelector("input[type=checkbox]"); //直接使用css selector
 	var editButton = taskListItem.querySelector("button.edit");
 	var deleteButton = taskListItem.querySelector("button.delete");
 	

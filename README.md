@@ -5,5 +5,9 @@ This project was followed [Treehous](http://referrals.trhou.se/ninalee) course: 
 ## Learning Notes in chinese
 
 * [Part 01](http://fight-ikea.logdown.com/posts/236303-todo-web-app-01)
-* [Part 02](http://fight-ikea.logdown.com/posts/236303-todo-web-app-02)
-* [part 03]
+* [Part 02](http://fight-ikea.logdown.com/posts/236413-todo-web-app-02)
+* [part03](http://fight-ikea.logdown.com/posts/236573-todo-web-app-03)
+
+## Links
+* [Demo](http://jellynina.me/JS-to-do/)
+* [github](https://github.com/jellynina/JS-to-do)
