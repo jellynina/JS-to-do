@@ -142,3 +142,23 @@ a{
 a:hover{
   color: #33cc33;
 }
+
+/*site information*/
+.site-logo {
+  background-image: url(http://jellynina.me/img/fav_icon.svg);
+  background-repeat: no-repeat;
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+}
+
+.logo-bar > *{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.logo-bar a{
+  color: #656a6e;
+  text-decoration: none;
+  font-weight: 400;
+}
